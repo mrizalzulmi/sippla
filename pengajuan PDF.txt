@@ -1,0 +1,49 @@
+SPM LSG
+ 1. SPM (bertandatangan dan stempel)
+ 2. Check List
+ 3. e-Billing
+ 4. Rekap SIM Gaji
+ 5. e-SPT
+SPM HR
+ 1. SPM (bertandatangan dan stempel)
+ 2. Check List
+ 3. SPJ
+SPM BTLNG
+ 1. SPM (bertandatangan dan stempel)
+ 2. Check List
+ 3. SPJ
+ 4. SK (untuk TP)
+ 5. Rekom BKD (untuk TPP)
+SPM UP
+ 1. SPM (bertandatangan dan stempel)
+ 2. Check List
+ 3. Perhitungan UP
+ 5. Rekon & Rekom Akuntansi & Aset
+SPM GU
+ 1. SPM (bertandatangan dan stempel)
+ 2. Check List
+ 4. SPTJB
+ 5. Pertanggungjawaban UP/GU
+ 6. Rekom Akuntansi & Aset
+SPM LSP
+ 1. SPM (bertandatangan dan stempel)
+ 2. Check List
+ 3. SPJ
+ 4. Autodebet
+SPM LSB
+ 1. SPM (bertandatangan dan stempel)
+ 2. Check List
+ 4. Kwitansi / SPJ / Rekap SPJ
+ 5. Referensi Bank (jika ada)
+ 6. NPWP (jika ada)
+ 7. e-Billing (jika ada)
+ 8. Faktur (jika ada)
+SPM LSPT
+ 1. SPM (bertandatangan dan stempel)
+ 2. Check List
+ 4. Kwitansi
+ 5. BAST
+ 6. Referensi Bank
+ 7. NPWP
+ 8. e-Billing
+ 9. Faktur (jika ada)

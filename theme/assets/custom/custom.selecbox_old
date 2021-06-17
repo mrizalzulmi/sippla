@@ -1,0 +1,105 @@
+/** Get kota */
+function onChangeMenuKota($var){
+	url = base_url+'service/getkota?provinsi_id='+$var;
+	$('#kota_id').empty();
+	
+	$.getJSON(url,{},
+		function(data){
+			$('#kota_id').append(new Option('-- SILAHKAN PILIH --', ''));
+			
+			for(i=0;i<data.length;i++){
+				$('#kota_id').append(new Option(data[i].kota, data[i].kota_id));
+			}
+		}
+	); 
+}
+/** End Get kota */
+
+/** Get kode urusan */
+function onChangeMenuKodeUrusan($var){
+	url = base_url+'service/getkodetipe?level=1&&tipe='+$var;
+	$('#urusan_id').empty();
+	document.getElementById("kode_urusan").value = '';
+	document.getElementById("kode_urusan_disable").value = '';
+	
+	$.getJSON(url,{},
+		function(data){
+			$('#urusan_id').append(new Option('-- SILAHKAN PILIH --', ''));
+			
+			for(i=0;i<data.length;i++){
+				$('#urusan_id').append(new Option(data[i].nama, data[i].org_id));
+			}
+		}
+	); 
+}
+
+function onChangeValueKodeUrusan($var){
+	url = base_url+'service/getreskode?org_id='+$var;
+	document.getElementById("kode_urusan").value = '';
+	document.getElementById("kode_urusan_disable").value = '';
+	
+	$.getJSON(url,{},
+		function(data){
+			var elem 	= document.getElementById("kode_urusan");
+			var elem2 	= document.getElementById("kode_urusan_disable");
+			if(data.kode){
+				elem.value = data.kode;
+				elem2.value = data.kode;
+			}else{
+				elem.value = '';
+				elem2.value = '';
+			}
+			
+		}
+	); 
+	
+	
+	
+}
+/** End kode urusan */
+
+
+/** Get kode organisasi */
+function onChangeMenuKodeBidang($var){
+	url = base_url+'service/getkodebidang?tipe='+$var;
+	$('#bidang_id').empty();
+	document.getElementById("kode_urusan").value = '';
+	document.getElementById("kode_urusan_disable").value = '';
+	
+	$.getJSON(url,{},
+		function(data){
+			$('#bidang_id').append(new Option('-- SILAHKAN PILIH --', ''));
+			
+			for(i=0;i<data.length;i++){
+				$('#bidang_id').append(new Option(data[i].nama, data[i].org_id));
+			}
+		}
+	); 
+}
+
+function onChangeValueKodeBidang($var){
+	url = base_url+'service/getreskode?org_id='+$var;
+	document.getElementById("kode_urusan").value = '';
+	document.getElementById("kode_urusan_disable").value = '';
+	
+	$.getJSON(url,{},
+		function(data){
+			var elem 	= document.getElementById("kode_urusan");
+			var elem2 	= document.getElementById("kode_urusan_disable");
+			if(data.kode){
+				elem.value = data.kode;
+				elem2.value = data.kode;
+			}else{
+				elem.value = '';
+				elem2.value = '';
+			}
+			
+		}
+	); 
+	
+}
+/** End kode organisasi */
+
+
+
+

@@ -1,0 +1,97 @@
+FILE YANG HARUS DIUPLOAD (dalam 1 File PDF)
+
+SPM LSG
+    1. SPM (bertandatangan dan stempel)
+    2. Surat Pernyataan Tanggung Jawab
+    3. e-Billing
+    4. Check List
+    5. e-SPT
+    6. Rekap Kulit SIM Gaji
+    7. Daftar Mutasi Pegawai
+    8. DPA/DPPA (halaman terkait & berstabilo)
+SPM HR
+    1. SPM (bertandatangan dan stempel)
+    2. Surat Pernyataan Tanggung Jawab
+    3. Check List
+    4. Daftar Penerima Honorarium
+    5. Daftar Uraian Mutasi Pegawai
+    6. DPA/DPPA (halaman terkait & berstabilo)
+SPM BTLNG
+    1. SPM (bertandatangan dan stempel)
+    2. Surat Pernyataan Tanggung Jawab
+    3. e-Billing
+    4. Check List
+    5. Daftar Penerima Honorarium
+    6. SPTJB Mutlak
+    7. SK (Lampiran SK Nama Penerima)
+    8. Rekom BKD
+    9. DPA/DPPA (halaman terkait & berstabilo)
+SPM UP
+    1. SPM (bertandatangan dan stempel)
+    2. Surat Pernyataan Tanggung Jawab
+    3. Check List
+    4. Perhitungan UP
+    5. Surat Pernyataan Tanggung Jawab PA/KPA
+    6. Rekom Akuntansi & Aset
+SPM GU
+    1. SPM (bertandatangan dan stempel)
+    2. Surat Pernyataan Tanggung Jawab
+    3. Check List
+    4. SPTJB Manual (ada kolom penerima/toko)
+    5. Pertanggungjawaban UP/GU
+    6. Surat Pernyataan Tanggung Jawab PA/KPA
+    7. Rekening Koran (halaman saldo)
+    8. Rekom Akuntansi & Aset
+    9. Menyerahkan Fotocopy SPJ GU (tdk discan)
+SPM LSP
+    1. SPM (bertandatangan dan stempel)
+    2. Surat Pernyataan Tanggung Jawab
+    3. e-Billing
+    4. Check List
+    5. Daftar Penerima Honorarium/Rekap
+    6. SK (Lampiran SK Nama Penerima)
+    7. DPA/DPPA (halaman terkait & berstabilo)
+SPM LSB Barang
+    1. SPM (bertandatangan dan stempel)
+    2. Surat Pernyataan Tanggung Jawab
+    3. Referensi Bank
+    4. e-Billing
+    5. Check List
+    6. Faktur
+    7. Nota/Kwitansi
+    8. BAST + Lampiran
+    9. DPA/DPPA (halaman terkait & berstabilo)
+SPM LSB Jasa
+    1. SPM (bertandatangan dan stempel)
+    2. Surat Pernyataan Tanggung Jawab
+    3. e-Billing
+    4. Check List
+    5. Daftar Penerima Honorarium & Rekap
+    6. SK (Lampiran SK Nama Penerima)
+    7. DPA/DPPA (halaman terkait & berstabilo)
+SPM LSB Rutin (BBM, Listrik dll)
+    1. SPM (bertandatangan dan stempel)
+    2. Surat Pernyataan Tanggung Jawab
+    3. e-Billing
+    4. Check List
+    5. Tagihan & Rekap
+    6. Kwitansi (BBM)
+    7. DPA/DPPA (halaman terkait & berstabilo)
+SPM LSPT
+    1. SPM (bertandatangan dan stempel)
+    2. Surat Pernyataan Tanggung Jawab
+    3. Referensi Bank
+    4. e-Billing
+    5. SKB & bukti pembayaran pajak
+    6. Check List
+    7. Faktur (jika ada)
+    8. Nota/Kwitansi
+    9. BAST + Lampiran
+    10. Jaminan Bank / Asuransi (jika ada)
+    11. DPA/DPPA (halaman terkait & berstabilo)
+SPM TUP
+    1. SPM (bertandatangan dan stempel)
+    2. Surat Pernyataan Tanggung Jawab
+    3. Check List
+    4. Surat Pernyataan TUP
+    5. Surat keterangan Penjelasan Keperluan TUP
